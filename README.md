@@ -1,2 +1,2 @@
-# stream-network-rpc
+# Stream Network RPC
 A custom Solana RPC network
